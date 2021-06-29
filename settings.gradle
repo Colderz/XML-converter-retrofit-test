@@ -1,0 +1,2 @@
+rootProject.name = "RetrofitXMLTest"
+include ':app'
